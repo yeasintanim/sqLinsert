@@ -1,0 +1,6 @@
+E:\BITM\Project\Practice\pStudentApp\pStudentApp\bin\pStudentApp.dll.config
+E:\BITM\Project\Practice\pStudentApp\pStudentApp\bin\pStudentApp.dll
+E:\BITM\Project\Practice\pStudentApp\pStudentApp\bin\pStudentApp.pdb
+E:\BITM\Project\Practice\pStudentApp\pStudentApp\obj\Debug\pStudentApp.csprojResolveAssemblyReference.cache
+E:\BITM\Project\Practice\pStudentApp\pStudentApp\obj\Debug\pStudentApp.dll
+E:\BITM\Project\Practice\pStudentApp\pStudentApp\obj\Debug\pStudentApp.pdb
